@@ -12,6 +12,7 @@ body {
 a {
     position: relative;
     text-decoration: none;
+    text-transform: uppercase;
     padding: 16px 32px;
     color: #E72629;
     overflow: hidden;
